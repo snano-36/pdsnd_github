@@ -6,7 +6,7 @@ Creation Date: 26-02-2021
 snano-36/pdsnd_github
 
 ### Description
-This project is used for submission purposes of nano degree programm 
+This project is used for submission purposes of nano degree programm by nanodegree36
 
 ### Files used
 tbd
