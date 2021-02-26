@@ -6,6 +6,8 @@ ny= 'new_york_city.csv'
 ch= 'chicago.csv'
 wa= 'washington.csv'
 
+#defining variables for reading the csv documents
+
 df_ny = pd.read_csv(ny)
 df_ch = pd.read_csv(ch)
 df_wa = pd.read_csv(wa)
